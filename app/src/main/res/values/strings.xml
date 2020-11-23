@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="which_moxie">Which moxie?</string>
+    <string name="plz_select_icon">
+        Please select the icon that reflects\nthe button on your moxie
+    </string>
+    <string name="blt_moxie_note">
+        If you have this button, it means:
+        \n<b>Play/Pause</b>
+        \nThis is a Bluetooth Moxie.
+    </string>
+    <string name="ai_moxie_note">
+        If you have this button, it means:
+        \n<b>Microphone Mute</b>
+        \nThis is an Alexa Moxie.
+    </string>
+</resources>
